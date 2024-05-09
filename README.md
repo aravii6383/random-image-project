@@ -1,1 +1,1 @@
-# random-image-project
+# random-emoji-project
